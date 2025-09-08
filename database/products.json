@@ -1,0 +1,109 @@
+[
+  {
+    "created_at": "2025-07-10T10:00:00Z",
+    "updated_at": "2025-09-07T17:38:31.674Z",
+    "deleted_at": "2025-09-07T17:39:03.160Z",
+    "id": 1,
+    "name": "Leche Entera TEST UPDATE",
+    "ean": "7501001234567",
+    "description": "Leche entera pasteurizada 1L",
+    "measurement_unit": "L",
+    "quantity": 1
+  },
+  {
+    "created_at": "2025-05-15T14:30:00Z",
+    "updated_at": null,
+    "deleted_at": null,
+    "id": 2,
+    "name": "Arroz Blanco",
+    "ean": "7502002345678",
+    "description": "Arroz blanco grano largo 900g",
+    "measurement_unit": "g",
+    "quantity": 900
+  },
+  {
+    "created_at": "2025-06-20T09:45:00Z",
+    "updated_at": null,
+    "deleted_at": null,
+    "id": 3,
+    "name": "Aceite de Oliva",
+    "ean": "7503003456789",
+    "description": "Aceite de oliva extra virgen 500ml",
+    "measurement_unit": "ml",
+    "quantity": 500
+  },
+  {
+    "created_at": "2025-08-01T16:20:00Z",
+    "updated_at": null,
+    "deleted_at": null,
+    "id": 4,
+    "name": "Azúcar Morena",
+    "ean": "7504004567890",
+    "description": "Azúcar morena orgánica 1kg",
+    "measurement_unit": "kg",
+    "quantity": 1
+  },
+  {
+    "created_at": "2025-06-05T12:10:00Z",
+    "updated_at": null,
+    "deleted_at": null,
+    "id": 5,
+    "name": "Sal de Mesa",
+    "ean": "7505005678901",
+    "description": "Sal de mesa yodada 500g",
+    "measurement_unit": "g",
+    "quantity": 500
+  },
+  {
+    "created_at": "2025-05-28T08:55:00Z",
+    "updated_at": null,
+    "deleted_at": null,
+    "id": 6,
+    "name": "Leche Entera Test",
+    "ean": "7501001234568",
+    "description": "Leche entera pasteurizada 1L",
+    "measurement_unit": "L",
+    "quantity": 1
+  },
+  {
+    "created_at": "2025-07-22T19:40:00Z",
+    "updated_at": null,
+    "deleted_at": null,
+    "id": 7,
+    "name": "Leche Entera Test 2",
+    "ean": "7501001234569",
+    "description": "Leche entera pasteurizada 1L",
+    "measurement_unit": "L",
+    "quantity": 1
+  },
+  {
+    "created_at": "2025-08-30T11:15:00Z",
+    "updated_at": null,
+    "deleted_at": null,
+    "id": 8,
+    "name": "Leche Entera Test 2",
+    "ean": "7501001234570"
+  },
+  {
+    "created_at": "2025-09-07T00:17:49.590Z",
+    "updated_at": null,
+    "deleted_at": null,
+    "name": "Leche Entera",
+    "ean": "7501001234587",
+    "description": "Leche entera pasteurizada 1L",
+    "measurement_unit": "L",
+    "quantity": 1,
+    "id": 9
+  },
+  {
+    "created_at": "2025-09-07T00:32:53.613Z",
+    "updated_at": null,
+    "deleted_at": null,
+    "name": "Leche Entera",
+    "ean": "7501001234597",
+    "description": "Leche entera pasteurizada 1L",
+    "measurement_unit": "L",
+    "quantity": 3,
+    "id": 10
+  }
+]

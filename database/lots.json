@@ -1,0 +1,227 @@
+[
+  {
+    "created_at": "2025-05-10T14:23:00Z",
+    "updated_at": "2025-09-07T23:55:08.864Z",
+    "deleted_at": null,
+    "id": 1,
+    "product_id": 1,
+    "warehouse_id": 1,
+    "stock": 117
+  },
+  {
+    "created_at": "2025-06-01T09:12:00Z",
+    "updated_at": "2025-09-07T23:55:09.372Z",
+    "deleted_at": null,
+    "id": 2,
+    "product_id": 1,
+    "warehouse_id": 2,
+    "stock": 64
+  },
+  {
+    "created_at": "2025-04-25T18:45:00Z",
+    "updated_at": "2025-09-07T23:55:09.388Z",
+    "deleted_at": null,
+    "id": 3,
+    "product_id": 1,
+    "warehouse_id": 3,
+    "stock": 966
+  },
+  {
+    "created_at": "2025-07-15T11:30:00Z",
+    "updated_at": "2025-09-07T23:55:09.626Z",
+    "deleted_at": null,
+    "id": 4,
+    "product_id": 1,
+    "warehouse_id": 4,
+    "stock": 2
+  },
+  {
+    "created_at": "2025-08-20T16:10:00Z",
+    "updated_at": "2025-09-07T23:55:09.760Z",
+    "deleted_at": null,
+    "id": 5,
+    "product_id": 1,
+    "warehouse_id": 5,
+    "stock": 320
+  },
+  {
+    "created_at": "2025-06-18T08:05:00Z",
+    "updated_at": "2025-09-07T23:55:09.570Z",
+    "deleted_at": null,
+    "id": 6,
+    "product_id": 2,
+    "warehouse_id": 1,
+    "stock": 64
+  },
+  {
+    "created_at": "2025-05-28T20:40:00Z",
+    "updated_at": "2025-09-07T23:55:09.479Z",
+    "deleted_at": null,
+    "id": 7,
+    "product_id": 2,
+    "warehouse_id": 2,
+    "stock": 946
+  },
+  {
+    "created_at": "2025-07-02T13:55:00Z",
+    "updated_at": "2025-09-07T23:55:08.929Z",
+    "deleted_at": null,
+    "id": 8,
+    "product_id": 2,
+    "warehouse_id": 3,
+    "stock": 629
+  },
+  {
+    "created_at": "2025-06-10T17:20:00Z",
+    "updated_at": "2025-09-07T23:55:08.916Z",
+    "deleted_at": null,
+    "id": 9,
+    "product_id": 2,
+    "warehouse_id": 4,
+    "stock": 836
+  },
+  {
+    "created_at": "2025-08-01T10:00:00Z",
+    "updated_at": "2025-09-07T23:55:09.242Z",
+    "deleted_at": null,
+    "id": 10,
+    "product_id": 2,
+    "warehouse_id": 5,
+    "stock": 878
+  },
+  {
+    "created_at": "2025-05-15T15:15:00Z",
+    "updated_at": "2025-09-07T23:55:09.385Z",
+    "deleted_at": null,
+    "id": 11,
+    "product_id": 3,
+    "warehouse_id": 1,
+    "stock": 175
+  },
+  {
+    "created_at": "2025-07-25T12:40:00Z",
+    "updated_at": "2025-09-07T23:55:09.434Z",
+    "deleted_at": null,
+    "id": 12,
+    "product_id": 3,
+    "warehouse_id": 2,
+    "stock": 841
+  },
+  {
+    "created_at": "2025-06-30T19:05:00Z",
+    "updated_at": "2025-09-07T23:55:07.784Z",
+    "deleted_at": null,
+    "id": 13,
+    "product_id": 3,
+    "warehouse_id": 3,
+    "stock": 797
+  },
+  {
+    "created_at": "2025-05-22T07:50:00Z",
+    "updated_at": "2025-09-07T23:55:09.465Z",
+    "deleted_at": null,
+    "id": 14,
+    "product_id": 3,
+    "warehouse_id": 4,
+    "stock": 456
+  },
+  {
+    "created_at": "2025-08-10T21:35:00Z",
+    "updated_at": "2025-09-07T23:55:09.450Z",
+    "deleted_at": null,
+    "id": 15,
+    "product_id": 3,
+    "warehouse_id": 5,
+    "stock": 411
+  },
+  {
+    "created_at": "2025-06-05T14:00:00Z",
+    "updated_at": "2025-09-07T23:55:08.610Z",
+    "deleted_at": null,
+    "id": 16,
+    "product_id": 4,
+    "warehouse_id": 1,
+    "stock": 402
+  },
+  {
+    "created_at": "2025-07-18T18:25:00Z",
+    "updated_at": "2025-09-07T23:55:09.199Z",
+    "deleted_at": null,
+    "id": 17,
+    "product_id": 4,
+    "warehouse_id": 2,
+    "stock": 530
+  },
+  {
+    "created_at": "2025-05-30T09:45:00Z",
+    "updated_at": "2025-09-07T23:55:09.640Z",
+    "deleted_at": null,
+    "id": 18,
+    "product_id": 4,
+    "warehouse_id": 3,
+    "stock": 716
+  },
+  {
+    "created_at": "2025-08-05T22:15:00Z",
+    "updated_at": "2025-09-07T23:55:09.450Z",
+    "deleted_at": null,
+    "id": 19,
+    "product_id": 4,
+    "warehouse_id": 4,
+    "stock": 343
+  },
+  {
+    "created_at": "2025-06-25T06:30:00Z",
+    "updated_at": "2025-09-07T23:55:08.973Z",
+    "deleted_at": null,
+    "id": 20,
+    "product_id": 4,
+    "warehouse_id": 5,
+    "stock": 979
+  },
+  {
+    "created_at": "2025-07-12T11:55:00Z",
+    "updated_at": "2025-09-07T23:55:09.863Z",
+    "deleted_at": null,
+    "id": 21,
+    "product_id": 5,
+    "warehouse_id": 1,
+    "stock": 599
+  },
+  {
+    "created_at": "2025-05-18T16:45:00Z",
+    "updated_at": "2025-09-07T23:55:08.868Z",
+    "deleted_at": null,
+    "id": 22,
+    "product_id": 5,
+    "warehouse_id": 2,
+    "stock": 634
+  },
+  {
+    "created_at": "2025-08-15T08:20:00Z",
+    "updated_at": "2025-09-07T23:55:09.895Z",
+    "deleted_at": null,
+    "id": 23,
+    "product_id": 5,
+    "warehouse_id": 3,
+    "stock": 323
+  },
+  {
+    "created_at": "2025-06-12T20:10:00Z",
+    "updated_at": "2025-09-07T23:55:09.316Z",
+    "deleted_at": null,
+    "id": 24,
+    "product_id": 5,
+    "warehouse_id": 4,
+    "stock": 671
+  },
+  {
+    "created_at": "2025-07-28T13:00:00Z",
+    "updated_at": "2025-09-07T23:55:09.512Z",
+    "deleted_at": null,
+    "id": 25,
+    "product_id": 5,
+    "warehouse_id": 5,
+    "stock": 634
+  }
+]

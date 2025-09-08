@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Central Warehouse Test Backup",
+    "location": "Bs As",
+    "created_at": "2025-07-05T09:00:00Z",
+    "updated_at": "2025-09-08T01:20:13.226Z",
+    "deleted_at": null
+  },
+  {
+    "id": 2,
+    "name": "Almacén Norte",
+    "location": "Monterrey",
+    "created_at": "2025-06-12T13:20:00Z",
+    "updated_at": null,
+    "deleted_at": null
+  },
+  {
+    "id": 3,
+    "name": "Almacén Sur",
+    "location": "Mérida",
+    "created_at": "2025-08-18T17:45:00Z",
+    "updated_at": null,
+    "deleted_at": null
+  },
+  {
+    "id": 4,
+    "name": "Almacén Occidente",
+    "location": "Guadalajara",
+    "created_at": "2025-05-30T11:10:00Z",
+    "updated_at": null,
+    "deleted_at": null
+  },
+  {
+    "id": 5,
+    "name": "Almacén Bajío",
+    "location": "León",
+    "created_at": "2025-07-27T15:35:00Z",
+    "updated_at": null,
+    "deleted_at": null
+  }
+]
