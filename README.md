@@ -120,8 +120,7 @@ Dockerfile             # Configuración de Docker
 3. **Clonar el repositorio e instalar dependencias**
 
    ```bash
-   git clone <url-repositorio>
-   cd ML
+   git clone https://github.com/carlosdencausa/inventory-managment-api
    npm install
    ```
 
